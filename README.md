@@ -11,4 +11,5 @@ pip install chromadb
 pip install openai
 pip install langchain_community
 pip install langchain_openai
+pip install markdown
 ```
