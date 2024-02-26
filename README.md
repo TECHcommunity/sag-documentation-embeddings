@@ -1,4 +1,4 @@
-# Open AI embeddings
+# OpenAI embeddings
 
 Install the following libraries:
 
@@ -12,4 +12,10 @@ pip install openai
 pip install langchain_community
 pip install langchain_openai
 pip install markdown
+```
+
+Create an environment variable to store your OpenAI key
+
+```
+export OPENAI_API_KEY=<OPENAI-KEY>
 ```
